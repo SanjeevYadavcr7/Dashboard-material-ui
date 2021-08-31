@@ -1,5 +1,5 @@
 <h1>Dashboard | Material-UI</h1>
-<img src="https://github.com/SanjeevYadavcr7/Dashboard-material-ui/blob/main/Pagination.png" width="880px" height="540px" hspace="40">
+<img src="https://github.com/SanjeevYadavcr7/Dashboard-material-ui/blob/main/Pagination.png" width="1000px" height="490px" hspace="40">
 
 ## <h3> Project Features </h3>
 - [x] MUI Dashboard <br/>
