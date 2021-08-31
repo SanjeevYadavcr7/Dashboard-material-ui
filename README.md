@@ -1,9 +1,9 @@
 <h1>Dashboard | Material-UI</h1>
 <img src="https://github.com/SanjeevYadavcr7/Dashboard-material-ui/blob/main/Pagination.png" width="1000px" height="490px" hspace="40">
 
-## <h3> Project Features </h3>
-- [x] MUI Dashboard <br/>
-- [x] Navigation Menu <br/>
+## <h3> Dashboard Components</h3>
+- [x] MUI AppBar <br/>
+- [x] MUI Table <br/>
 - [x] MUI Pagination <br/>
 - [x] Record Sorting <br/>
 
