@@ -5,7 +5,8 @@
 - [x] MUI AppBar <br/>
 - [x] MUI Table <br/>
 - [x] MUI Pagination <br/>
-- [x] Record Sorting <br/>
+- [x] MUI Sorting(TableSortLabel) <br/>
+- [x] Records Filtering <br/>
 
 ## <h3> Technologies </h3>
 - [x] ReactJS v17.0.2(for UI dev environment) <br/>
